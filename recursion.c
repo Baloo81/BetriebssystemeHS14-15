@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+
+
 int fac_intern(int n, int akk){
 	if (n == 0){
 		return akk;
